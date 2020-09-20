@@ -1,4 +1,4 @@
-# Bakery Cafe & Shop
+# Makoo Bakery 
 Name: Nishan Shrestha
 
 CollegeID: 9636149
